@@ -18,8 +18,7 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 
 ### Installation
 1. Clone the repository:
-```
-git clone https://github.com/Addax101/Distributed-microservice-cache-manager.git```
+```git clone https://github.com/Addax101/Distributed-microservice-cache-manager.git```
 
 2. Install the dependencies: 
 `cd distributed-microservice-cache-manager

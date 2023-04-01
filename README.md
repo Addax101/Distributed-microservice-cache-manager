@@ -26,4 +26,5 @@ npm install`
 
 ### Usage
 Start the microservice: `npm start`
+This will start the microservice on `http://localhost:3000.`
 

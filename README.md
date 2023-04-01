@@ -24,3 +24,6 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 `cd distributed-microservice-cache-manager
 npm install`
 
+### Usage
+Start the microservice: `npm start`
+

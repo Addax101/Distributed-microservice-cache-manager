@@ -57,5 +57,9 @@ Contributions are welcome! Here are some ways you can contribute:
 * Implement new features by forking the repository and submitting a pull request
 * Improve the documentation
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 

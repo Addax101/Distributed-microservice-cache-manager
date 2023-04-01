@@ -52,7 +52,9 @@ docker push your-{UNSTABLE}/distributed-microservice-cache-manager
 ```
 kubectl apply -f kubernetes/deployment.yaml
 ```
+
 ## Contributing
+
 Contributions are welcome! Here are some ways you can contribute:
 
 * Report bugs and suggest improvements by opening an issue

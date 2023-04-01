@@ -22,6 +22,7 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 git clone https://github.com/Addax101/Distributed-microservice-cache-manager.git```
 
 2. Install the dependencies: 
-```cd distributed-microservice-cache-manager
+```
+cd distributed-microservice-cache-manager
 npm install```
 

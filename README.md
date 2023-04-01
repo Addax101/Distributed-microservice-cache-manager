@@ -10,3 +10,10 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 * Cache eviction policies like Least Recently Used (LRU) or Least Frequently Used (LFU)
 * Support for cache synchronization across multiple instances of the service
 * Containerized using Docker and deployable on Kubernetes
+
+## Getting Started
+### Prerequisites
+* Docker
+* Kubernetes (optional)
+* Installation
+* Clone the repository:

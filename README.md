@@ -15,7 +15,12 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 ### Prerequisites
 * Docker
 * Kubernetes (optional)
-* Installation
-* Clone the repository:
+
+### Installation
+1. Clone the repository:
 ```bash
 git clone https://github.com/Addax101/Distributed-microservice-cache-manager.git```
+
+### Install the dependencies: `cd distributed-microservice-cache-manager
+npm install`
+

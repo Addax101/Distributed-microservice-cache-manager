@@ -25,6 +25,17 @@ The Distributed Microservice Cache Manager is a microservice that provides a cen
 npm install`
 
 ### Usage
-Start the microservice: `npm start`
+1. Start the microservice: `npm start`.
 This will start the microservice on `http://localhost:3000.`
+
+2. Use the REST API to store and retrieve data from the cache;
+```
+# Store data in the cache
+POST http://localhost:3000/cache/key
+{ "value": "data" }
+
+# Retrieve data from the cache
+GET http://localhost:3000/cache/key
+```
+
 

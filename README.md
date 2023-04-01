@@ -39,7 +39,9 @@ GET http://localhost:3000/cache/key
 ```
 
 ### Deployment
-1. Build the Docker image: `docker build -t {UNSTABLE}/distributed-microservice-cache-manager` .
+1. Build the Docker image: 
+```docker build -t {UNSTABLE}/distributed-microservice-cache-manager
+```.
 
 2. Push the Docker image to a registry: 
 ```

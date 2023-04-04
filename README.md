@@ -64,7 +64,7 @@ Contributions are welcome! Here are some ways you can contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Addax101/Distributed-microservice-cache-manager/blob/main/LICENSE) file for details.
 
 
 

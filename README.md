@@ -14,7 +14,7 @@
 ## Getting Started
 ### Prerequisites
 * Docker
-* Kubernetes (optional)
+* Kubernetes (optional).
 
 ### Installation
 1. Clone the repository:
